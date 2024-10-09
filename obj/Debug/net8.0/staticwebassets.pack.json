@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/hyeontaelim/RiderProjects/market/market/wwwroot/images/03f7208c-c60e-431e-a635-154784f616d9.jpg",
+      "PackagePath": "staticwebassets/images/03f7208c-c60e-431e-a635-154784f616d9.jpg"
+    },
+    {
+      "Id": "/Users/hyeontaelim/RiderProjects/market/market/wwwroot/images/17a710cc-e98e-485f-afd0-078f9252df84.png",
+      "PackagePath": "staticwebassets/images/17a710cc-e98e-485f-afd0-078f9252df84.png"
+    },
+    {
+      "Id": "/Users/hyeontaelim/RiderProjects/market/market/wwwroot/images/26a8306b-ca41-4779-90d0-66eb803546fc.jpg",
+      "PackagePath": "staticwebassets/images/26a8306b-ca41-4779-90d0-66eb803546fc.jpg"
+    },
+    {
+      "Id": "/Users/hyeontaelim/RiderProjects/market/market/wwwroot/images/2e8506d7-e3ac-47b6-a96b-5ab8dc0c2fd9.jpg",
+      "PackagePath": "staticwebassets/images/2e8506d7-e3ac-47b6-a96b-5ab8dc0c2fd9.jpg"
+    },
+    {
+      "Id": "/Users/hyeontaelim/RiderProjects/market/market/wwwroot/images/55b76adb-2677-424d-b973-7e737a837f65.jpg",
+      "PackagePath": "staticwebassets/images/55b76adb-2677-424d-b973-7e737a837f65.jpg"
+    },
+    {
+      "Id": "/Users/hyeontaelim/RiderProjects/market/market/wwwroot/images/65351b2c-2da2-478f-87ed-dea67588d5d7.jpg",
+      "PackagePath": "staticwebassets/images/65351b2c-2da2-478f-87ed-dea67588d5d7.jpg"
+    },
+    {
+      "Id": "/Users/hyeontaelim/RiderProjects/market/market/wwwroot/images/73b4ae57-ee78-46f9-b041-61ea558fbeaf.png",
+      "PackagePath": "staticwebassets/images/73b4ae57-ee78-46f9-b041-61ea558fbeaf.png"
+    },
+    {
+      "Id": "/Users/hyeontaelim/RiderProjects/market/market/wwwroot/images/79951d64-157b-4cc9-bc36-d3b53d7c36b2.jpg",
+      "PackagePath": "staticwebassets/images/79951d64-157b-4cc9-bc36-d3b53d7c36b2.jpg"
+    },
+    {
+      "Id": "/Users/hyeontaelim/RiderProjects/market/market/wwwroot/images/7fbd337c-d854-4b2e-9a62-0181cdb1dc84.jpeg",
+      "PackagePath": "staticwebassets/images/7fbd337c-d854-4b2e-9a62-0181cdb1dc84.jpeg"
+    },
+    {
+      "Id": "/Users/hyeontaelim/RiderProjects/market/market/wwwroot/images/888661d6-42b6-4e81-979d-32df87e86e68.jpg",
+      "PackagePath": "staticwebassets/images/888661d6-42b6-4e81-979d-32df87e86e68.jpg"
+    },
+    {
+      "Id": "/Users/hyeontaelim/RiderProjects/market/market/wwwroot/images/a1112cb0-9c7f-4e32-bdae-d5e1947d8ecd.jpg",
+      "PackagePath": "staticwebassets/images/a1112cb0-9c7f-4e32-bdae-d5e1947d8ecd.jpg"
+    },
+    {
+      "Id": "/Users/hyeontaelim/RiderProjects/market/market/wwwroot/images/c9daec75-0871-42bb-b344-5193095493f7.jpg",
+      "PackagePath": "staticwebassets/images/c9daec75-0871-42bb-b344-5193095493f7.jpg"
+    },
+    {
+      "Id": "/Users/hyeontaelim/RiderProjects/market/market/wwwroot/images/no_image.jpg",
+      "PackagePath": "staticwebassets/images/no_image.jpg"
+    },
+    {
+      "Id": "/Users/hyeontaelim/RiderProjects/market/market/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.market.props",
+      "PackagePath": "build\\market.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.market.props",
+      "PackagePath": "buildMultiTargeting\\market.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.market.props",
+      "PackagePath": "buildTransitive\\market.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.market.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

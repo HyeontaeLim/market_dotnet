@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Market 등록 페이지</title>
+</head>
+<body>
+<h1>Item 등록 페이지</h1>
+<div>
+    <form action="/item" method="post" enctype="multipart/form-data">
+        <div>
+        <label for="ItemName">상품명</label>
+        <input type="text" id="ItemName" name="ItemName" >
+        </div>
+        <div>
+            <label for="Price">가격</label>
+            <input type="text" id="Price" name="Price" >
+        </div>
+        <div>
+            <label for="Quantity">수량</label>
+            <input type="text" id="Quantity" name="Quantity" >
+        </div>
+        <div>
+            <label for="Img">사진첨부</label>
+            <input type="file" id="Img" name="Img" >
+        </div>
+        <div>
+            <label for="Status">로켓배송 가능여부</label>
+            <input type="checkbox" checked="checked" id="Status" name="Status" >
+        </div>
+        <div>
+            <label for="CategoryId">카테고리</label>
+            <select id="CategoryId" name="CategoryId">
+                <option value="1">식품</option>
+                <option value="2">의류</option>
+                <option value="3">기전제품</option>
+                <option value="4">아동</option>
+                <option value="5">도서</option>
+            </select>
+        </div>
+        <input type="submit"/>
+    </form>
+</div>
+
+</body>
+</html>
